@@ -1,0 +1,10 @@
+=== RINGKASAN TUGAS 6 ===
+Rata-rata (NumPy All): 73.7
+Median: 71.0
+Standar Deviasi: 11.71
+Min/Max: 57/92
+-------------------------
+Total Mahasiswa di DF: 5
+Jumlah Lulus: 3
+Jumlah Tidak Lulus: 2
+Persentase Kelulusan: 60.0%
